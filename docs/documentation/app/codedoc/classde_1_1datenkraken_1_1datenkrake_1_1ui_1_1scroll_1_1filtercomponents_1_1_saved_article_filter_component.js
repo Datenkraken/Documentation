@@ -1,0 +1,5 @@
+var classde_1_1datenkraken_1_1datenkrake_1_1ui_1_1scroll_1_1filtercomponents_1_1_saved_article_filter_component =
+[
+    [ "SavedArticleFilterComponent", "classde_1_1datenkraken_1_1datenkrake_1_1ui_1_1scroll_1_1filtercomponents_1_1_saved_article_filter_component.html#a8c1fbde5ec8707f4520a60a4e4b22181", null ],
+    [ "isValid", "classde_1_1datenkraken_1_1datenkrake_1_1ui_1_1scroll_1_1filtercomponents_1_1_saved_article_filter_component.html#a7abce641081e45211de9601999e4f2d5", null ]
+];

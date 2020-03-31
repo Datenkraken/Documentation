@@ -1,0 +1,7 @@
+var classde_1_1datenkraken_1_1datenkrake_1_1surveillance_1_1background_1_1_background_packet_sender_1_1_background_sender_callback =
+[
+    [ "BackgroundSenderCallback", "classde_1_1datenkraken_1_1datenkrake_1_1surveillance_1_1background_1_1_background_packet_sender_1_1_background_sender_callback.html#a60c243701bbb8056e6efd5ecc4d84097", null ],
+    [ "onFailure", "classde_1_1datenkraken_1_1datenkrake_1_1surveillance_1_1background_1_1_background_packet_sender_1_1_background_sender_callback.html#acfa86e9965ef39d0a0d0e9b6d01adea5", null ],
+    [ "onSuccess", "classde_1_1datenkraken_1_1datenkrake_1_1surveillance_1_1background_1_1_background_packet_sender_1_1_background_sender_callback.html#ad1a4a1f9d2c6194715a2c3702619ea27", null ],
+    [ "filePath", "classde_1_1datenkraken_1_1datenkrake_1_1surveillance_1_1background_1_1_background_packet_sender_1_1_background_sender_callback.html#a27866d734a070fe85f533cfca8a8f468", null ]
+];

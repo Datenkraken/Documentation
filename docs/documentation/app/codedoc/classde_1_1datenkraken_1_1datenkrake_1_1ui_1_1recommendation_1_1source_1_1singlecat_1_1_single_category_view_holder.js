@@ -1,0 +1,5 @@
+var classde_1_1datenkraken_1_1datenkrake_1_1ui_1_1recommendation_1_1source_1_1singlecat_1_1_single_category_view_holder =
+[
+    [ "SingleCategoryViewHolder", "classde_1_1datenkraken_1_1datenkrake_1_1ui_1_1recommendation_1_1source_1_1singlecat_1_1_single_category_view_holder.html#adb8ca116f38d4ab87708a8ab21fdc424", null ],
+    [ "source", "classde_1_1datenkraken_1_1datenkrake_1_1ui_1_1recommendation_1_1source_1_1singlecat_1_1_single_category_view_holder.html#a7ab1abc4b4d72c31b2d0a3ad1ba3cfec", null ]
+];

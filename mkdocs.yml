@@ -1,0 +1,75 @@
+# Project information
+site_name: 'Datenkraken'
+site_description: "A surveillance self test."
+use_directory_urls: false
+#site_url: 'https://'
+
+# Repository
+#repo_name:
+#repo_url: 
+
+# Configuration
+theme:
+  name: 'material'
+  language: 'en'
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+
+# Navigation Layout
+nav: 
+  - 'Home': 'index.md'
+  - 'Documentation':
+    - 'Datenkrake': './documentation/index.md'
+    - 'Datenkrakes container': './documentation/datenkrakecontainer.md'
+    - 'Application':
+      - 'Components': './documentation/app/index.md'
+      - 'Surveillance': './documentation/app/surveillance.md'
+      - 'Code documentation': './documentation/app/codedoc/index.html'
+    - 'Web Backend':
+      - 'Components': './documentation/web_backend/index.md'
+      - 'Code principles': './documentation/web_backend/code-principles.md'
+      - 'Code documentation': './documentation/web_backend/codedoc/index.html'
+    - 'Database': './documentation/database.md'
+  - 'Guides':
+    - 'Change Application Names': './guides/change-name.md'
+    - 'Setting up the Project': './guides/setup.md'
+    - 'Backend: Introduction': './guides/backend/index.md'
+    - 'Backend: Setting up development environment': './guides/backend/development-setup.md'
+    - 'Backend: Setting up production environment': './guides/backend/production-setup.md'
+    - 'App: Build APK file': './guides/app/build-apk.md'
+
+# Customization
+extra:
+  manifest: 'manifest.webmanifest'
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:pymdownx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde

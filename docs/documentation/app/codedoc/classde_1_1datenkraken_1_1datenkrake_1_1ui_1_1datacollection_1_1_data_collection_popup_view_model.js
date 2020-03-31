@@ -1,0 +1,4 @@
+var classde_1_1datenkraken_1_1datenkrake_1_1ui_1_1datacollection_1_1_data_collection_popup_view_model =
+[
+    [ "saveAccept", "classde_1_1datenkraken_1_1datenkrake_1_1ui_1_1datacollection_1_1_data_collection_popup_view_model.html#abb5911857fe2400865a48f947d00a02d", null ]
+];

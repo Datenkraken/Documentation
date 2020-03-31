@@ -1,0 +1,7 @@
+var classde_1_1datenkraken_1_1datenkrake_1_1network_1_1clients_1_1apollo_1_1_apollo_1_1_authentication_interceptor =
+[
+    [ "AuthenticationInterceptor", "classde_1_1datenkraken_1_1datenkrake_1_1network_1_1clients_1_1apollo_1_1_apollo_1_1_authentication_interceptor.html#a52b0428fc36801fea1749373fea00041", null ],
+    [ "dispose", "classde_1_1datenkraken_1_1datenkrake_1_1network_1_1clients_1_1apollo_1_1_apollo_1_1_authentication_interceptor.html#a43627906396e82f7cc834ba7a02deb44", null ],
+    [ "interceptAsync", "classde_1_1datenkraken_1_1datenkrake_1_1network_1_1clients_1_1apollo_1_1_apollo_1_1_authentication_interceptor.html#a56fb1b927f8e2cd6fdc953e6279105a2", null ],
+    [ "authorizationService", "classde_1_1datenkraken_1_1datenkrake_1_1network_1_1clients_1_1apollo_1_1_apollo_1_1_authentication_interceptor.html#ad263d2601a6a4d300c124d53562fa48a", null ]
+];

@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['addevent_984',['addEvent',['../classde_1_1datenkraken_1_1datenkrake_1_1surveillance_1_1_event_collector.html#ad0eedaa8c1a28edfb872affdfa80999f',1,'de::datenkraken::datenkrake::surveillance::EventCollector']]],
+  ['addfiltercomponent_985',['addFilterComponent',['../classde_1_1datenkraken_1_1datenkrake_1_1ui_1_1util_1_1_live_data_filter.html#abbfb56efa071896553449ff6a3d45c71',1,'de::datenkraken::datenkrake::ui::util::LiveDataFilter']]],
+  ['addpacket_986',['addPacket',['../classde_1_1datenkraken_1_1datenkrake_1_1surveillance_1_1_processed_data_collector.html#aa50a61233c0872d16d316cb4717db0c2',1,'de::datenkraken::datenkrake::surveillance::ProcessedDataCollector']]],
+  ['addprocessor_987',['addProcessor',['../classde_1_1datenkraken_1_1datenkrake_1_1surveillance_1_1_event_processor_map.html#a99eb6c762019190615e1a20ea887ad73',1,'de::datenkraken::datenkrake::surveillance::EventProcessorMap']]],
+  ['addsource_988',['addSource',['../classde_1_1datenkraken_1_1datenkrake_1_1ui_1_1sources_1_1_sources_view_model.html#ae499627297df44ce5dbd0f3f258fd1ac',1,'de::datenkraken::datenkrake::ui::sources::SourcesViewModel']]],
+  ['addsources_989',['addSources',['../classde_1_1datenkraken_1_1datenkrake_1_1ui_1_1recommendation_1_1_recomm_view_model.html#acf8d496cf529fcc6f77bc7ed05d78fa9',1,'de::datenkraken::datenkrake::ui::recommendation::RecommViewModel']]],
+  ['addsourcesdialogfragment_990',['AddSourcesDialogFragment',['../classde_1_1datenkraken_1_1datenkrake_1_1ui_1_1sources_1_1dialogs_1_1_add_sources_dialog_fragment.html#ac05b692586a393920266a3ab6086a81b',1,'de::datenkraken::datenkrake::ui::sources::dialogs::AddSourcesDialogFragment']]],
+  ['addtomap_991',['addToMap',['../classde_1_1datenkraken_1_1datenkrake_1_1surveillance_1_1_event_processor_map.html#ab8f1701773cb29c002102b6dfac377b0',1,'de::datenkraken::datenkrake::surveillance::EventProcessorMap']]],
+  ['apollo_992',['Apollo',['../classde_1_1datenkraken_1_1datenkrake_1_1network_1_1clients_1_1apollo_1_1_apollo.html#a968f37c6e5e4165bf8a83a721fb75f96',1,'de::datenkraken::datenkrake::network::clients::apollo::Apollo']]],
+  ['appdatabase_993',['AppDatabase',['../classde_1_1datenkraken_1_1datenkrake_1_1db_1_1_app_database.html#ad3aa97fc4abd4bfbcdcbec3d74530b1e',1,'de::datenkraken::datenkrake::db::AppDatabase']]],
+  ['applicationaction_994',['ApplicationAction',['../enumde_1_1datenkraken_1_1datenkrake_1_1surveillance_1_1actions_1_1_application_action.html#a24fef8dbcaf5b32a5fb5a270206dc436',1,'de::datenkraken::datenkrake::surveillance::actions::ApplicationAction']]],
+  ['article_995',['Article',['../classde_1_1datenkraken_1_1datenkrake_1_1model_1_1_article.html#a466852774bd523285132335afd6ecb59',1,'de::datenkraken::datenkrake::model::Article']]],
+  ['articleaction_996',['ArticleAction',['../enumde_1_1datenkraken_1_1datenkrake_1_1surveillance_1_1actions_1_1_article_action.html#a42dcd6947ca3aef0ce28f581b30a8bb3',1,'de::datenkraken::datenkrake::surveillance::actions::ArticleAction']]],
+  ['articlerepository_997',['ArticleRepository',['../classde_1_1datenkraken_1_1datenkrake_1_1repository_1_1_article_repository.html#acb91000df3a73a97b6b5629bc0b6b7df',1,'de::datenkraken::datenkrake::repository::ArticleRepository']]],
+  ['articleviewholder_998',['ArticleViewHolder',['../classde_1_1datenkraken_1_1datenkrake_1_1ui_1_1scroll_1_1_article_view_holder.html#ac8e828100a7fba72cf65c49c58a32657',1,'de::datenkraken::datenkrake::ui::scroll::ArticleViewHolder']]],
+  ['articleviewmodel_999',['ArticleViewModel',['../classde_1_1datenkraken_1_1datenkrake_1_1ui_1_1singlearticle_1_1_article_view_model.html#a76805ea075780b708a2ecdc3e66d3216',1,'de::datenkraken::datenkrake::ui::singlearticle::ArticleViewModel']]],
+  ['authenticationinterceptor_1000',['AuthenticationInterceptor',['../classde_1_1datenkraken_1_1datenkrake_1_1network_1_1clients_1_1apollo_1_1_apollo_1_1_authentication_interceptor.html#a52b0428fc36801fea1749373fea00041',1,'de::datenkraken::datenkrake::network::clients::apollo::Apollo::AuthenticationInterceptor']]],
+  ['authenticationmanager_1001',['AuthenticationManager',['../classde_1_1datenkraken_1_1datenkrake_1_1authentication_1_1_authentication_manager.html#acb60b4e9afdd05df04073dae4539afda',1,'de::datenkraken::datenkrake::authentication::AuthenticationManager']]]
+];

@@ -1,0 +1,5 @@
+var namespacede_1_1datenkraken_1_1datenkrake_1_1controller_1_1feedupdater_1_1rss =
+[
+    [ "OkHttpFeed", "classde_1_1datenkraken_1_1datenkrake_1_1controller_1_1feedupdater_1_1rss_1_1_ok_http_feed.html", "classde_1_1datenkraken_1_1datenkrake_1_1controller_1_1feedupdater_1_1rss_1_1_ok_http_feed" ],
+    [ "UnsupportedVersionException", "classde_1_1datenkraken_1_1datenkrake_1_1controller_1_1feedupdater_1_1rss_1_1_unsupported_version_exception.html", "classde_1_1datenkraken_1_1datenkrake_1_1controller_1_1feedupdater_1_1rss_1_1_unsupported_version_exception" ]
+];

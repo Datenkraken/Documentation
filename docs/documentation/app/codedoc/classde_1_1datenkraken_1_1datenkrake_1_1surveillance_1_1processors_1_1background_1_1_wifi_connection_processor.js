@@ -1,0 +1,6 @@
+var classde_1_1datenkraken_1_1datenkrake_1_1surveillance_1_1processors_1_1background_1_1_wifi_connection_processor =
+[
+    [ "WifiConnectionProcessor", "classde_1_1datenkraken_1_1datenkrake_1_1surveillance_1_1processors_1_1background_1_1_wifi_connection_processor.html#afd18af91cd14e697968a369b35156910", null ],
+    [ "createPacket", "classde_1_1datenkraken_1_1datenkrake_1_1surveillance_1_1processors_1_1background_1_1_wifi_connection_processor.html#a77b20f11d28a616c130f3c00d29377b1", null ],
+    [ "process", "classde_1_1datenkraken_1_1datenkrake_1_1surveillance_1_1processors_1_1background_1_1_wifi_connection_processor.html#aca807e97ee8798d8ea95c7d5f7f587f8", null ]
+];

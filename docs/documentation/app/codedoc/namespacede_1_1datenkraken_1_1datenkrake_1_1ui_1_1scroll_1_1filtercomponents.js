@@ -1,0 +1,6 @@
+var namespacede_1_1datenkraken_1_1datenkrake_1_1ui_1_1scroll_1_1filtercomponents =
+[
+    [ "SavedArticleFilterComponent", "classde_1_1datenkraken_1_1datenkrake_1_1ui_1_1scroll_1_1filtercomponents_1_1_saved_article_filter_component.html", "classde_1_1datenkraken_1_1datenkrake_1_1ui_1_1scroll_1_1filtercomponents_1_1_saved_article_filter_component" ],
+    [ "SourceUidFilterComponent", "classde_1_1datenkraken_1_1datenkrake_1_1ui_1_1scroll_1_1filtercomponents_1_1_source_uid_filter_component.html", "classde_1_1datenkraken_1_1datenkrake_1_1ui_1_1scroll_1_1filtercomponents_1_1_source_uid_filter_component" ],
+    [ "StringFilterComponent", "classde_1_1datenkraken_1_1datenkrake_1_1ui_1_1scroll_1_1filtercomponents_1_1_string_filter_component.html", "classde_1_1datenkraken_1_1datenkrake_1_1ui_1_1scroll_1_1filtercomponents_1_1_string_filter_component" ]
+];

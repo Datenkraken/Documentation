@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['savedarticlefiltercomponent_2ejava_956',['SavedArticleFilterComponent.java',['../_saved_article_filter_component_8java.html',1,'']]],
+  ['scrolladapter_2ejava_957',['ScrollAdapter.java',['../_scroll_adapter_8java.html',1,'']]],
+  ['scrollfragment_2ejava_958',['ScrollFragment.java',['../_scroll_fragment_8java.html',1,'']]],
+  ['scrollviewmodel_2ejava_959',['ScrollViewModel.java',['../_scroll_view_model_8java.html',1,'']]],
+  ['settingspagefragment_2ejava_960',['SettingsPageFragment.java',['../_settings_page_fragment_8java.html',1,'']]],
+  ['settingspageviewmodel_2ejava_961',['SettingsPageViewModel.java',['../_settings_page_view_model_8java.html',1,'']]],
+  ['singlecategoryadapter_2ejava_962',['SingleCategoryAdapter.java',['../_single_category_adapter_8java.html',1,'']]],
+  ['singlecategoryviewholder_2ejava_963',['SingleCategoryViewHolder.java',['../_single_category_view_holder_8java.html',1,'']]],
+  ['source_2ejava_964',['Source.java',['../_source_8java.html',1,'']]],
+  ['sourceaction_2ejava_965',['SourceAction.java',['../_source_action_8java.html',1,'']]],
+  ['sourceactionprocessor_2ejava_966',['SourceActionProcessor.java',['../_source_action_processor_8java.html',1,'']]],
+  ['sourceactionsender_2ejava_967',['SourceActionSender.java',['../_source_action_sender_8java.html',1,'']]],
+  ['sourcerecommadapter_2ejava_968',['SourceRecommAdapter.java',['../_source_recomm_adapter_8java.html',1,'']]],
+  ['sourcerecommfragment_2ejava_969',['SourceRecommFragment.java',['../_source_recomm_fragment_8java.html',1,'']]],
+  ['sourcerecommviewholder_2ejava_970',['SourceRecommViewHolder.java',['../_source_recomm_view_holder_8java.html',1,'']]],
+  ['sourcerepository_2ejava_971',['SourceRepository.java',['../_source_repository_8java.html',1,'']]],
+  ['sourcesadapter_2ejava_972',['SourcesAdapter.java',['../_sources_adapter_8java.html',1,'']]],
+  ['sourcesfragment_2ejava_973',['SourcesFragment.java',['../_sources_fragment_8java.html',1,'']]],
+  ['sourcesviewholder_2ejava_974',['SourcesViewHolder.java',['../_sources_view_holder_8java.html',1,'']]],
+  ['sourcesviewmodel_2ejava_975',['SourcesViewModel.java',['../_sources_view_model_8java.html',1,'']]],
+  ['sourcetoarticlerelation_2ejava_976',['SourceToArticleRelation.java',['../_source_to_article_relation_8java.html',1,'']]],
+  ['sourceuidfiltercomponent_2ejava_977',['SourceUidFilterComponent.java',['../_source_uid_filter_component_8java.html',1,'']]],
+  ['stringfiltercomponent_2ejava_978',['StringFilterComponent.java',['../_string_filter_component_8java.html',1,'']]]
+];

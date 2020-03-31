@@ -1,0 +1,7 @@
+var namespacede_1_1datenkraken_1_1datenkrake_1_1ui_1_1recommendation_1_1source =
+[
+    [ "singlecat", "namespacede_1_1datenkraken_1_1datenkrake_1_1ui_1_1recommendation_1_1source_1_1singlecat.html", "namespacede_1_1datenkraken_1_1datenkrake_1_1ui_1_1recommendation_1_1source_1_1singlecat" ],
+    [ "SourceRecommAdapter", "classde_1_1datenkraken_1_1datenkrake_1_1ui_1_1recommendation_1_1source_1_1_source_recomm_adapter.html", "classde_1_1datenkraken_1_1datenkrake_1_1ui_1_1recommendation_1_1source_1_1_source_recomm_adapter" ],
+    [ "SourceRecommFragment", "classde_1_1datenkraken_1_1datenkrake_1_1ui_1_1recommendation_1_1source_1_1_source_recomm_fragment.html", "classde_1_1datenkraken_1_1datenkrake_1_1ui_1_1recommendation_1_1source_1_1_source_recomm_fragment" ],
+    [ "SourceRecommViewHolder", "classde_1_1datenkraken_1_1datenkrake_1_1ui_1_1recommendation_1_1source_1_1_source_recomm_view_holder.html", "classde_1_1datenkraken_1_1datenkrake_1_1ui_1_1recommendation_1_1source_1_1_source_recomm_view_holder" ]
+];
